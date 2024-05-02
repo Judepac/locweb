@@ -31,6 +31,38 @@
       "serialNumber": "POL458M2",
       "agency": "TON",
       "parcNumber": "19689"
+    },
+        {
+      "id": "5",
+      "state": "start",
+      "name": "Haulotte Compact 12",
+      "serialNumber": "ILOH85K",
+      "agency": "PAN",
+      "parcNumber": ""
+    },
+    {
+      "id": "6",
+      "title": "start",
+      "name": "Cesab M45P",
+      "serialNumber": "LOP785E",
+      "agency": "PAO",
+      "parcNumber": ""
+    },
+    {
+      "id": "7",
+      "state": "medium",
+      "name": "Cesab GH8",
+      "serialNumber": "AZLOP89",
+      "agency": "PAN",
+      "parcNumber": "18002"
+    },
+    {
+      "id": "8",
+      "title": "full",
+      "name": "Haulotte compact",
+      "serialNumber": "PG458222",
+      "agency": "TON",
+      "parcNumber": "17895"
     }
   ],
   "comments": [
