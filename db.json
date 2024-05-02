@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "id": "1",
+      "state": "start",
+      "name": "Magni ES 1214",
+      "serialNumber": "I46PBTZ0",
+      "agency": "PAN"
+    },
+    {
+      "id": "2",
+      "title": "medium",
+      "name": "Magni ES 12CP",
+      "serialNumber": "KIPO2HE",
+      "agency": "LIL"
+    },
+    {
+      "id": "3",
+      "state": "medium",
+      "name": "Cesab P320",
+      "serialNumber": "AZERG589",
+      "agency": "PAN"
+    },
+    {
+      "id": "4",
+      "title": "full",
+      "name": "Haulotte compact",
+      "serialNumber": "POL458M2",
+      "agency": "TON"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
