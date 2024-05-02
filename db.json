@@ -5,28 +5,32 @@
       "state": "start",
       "name": "Magni ES 1214",
       "serialNumber": "I46PBTZ0",
-      "agency": "PAN"
+      "agency": "PAN",
+      "parcNumber": ""
     },
     {
       "id": "2",
       "title": "medium",
       "name": "Magni ES 12CP",
       "serialNumber": "KIPO2HE",
-      "agency": "LIL"
+      "agency": "LIL",
+      "parcNumber": "21002"
     },
     {
       "id": "3",
       "state": "medium",
       "name": "Cesab P320",
       "serialNumber": "AZERG589",
-      "agency": "PAN"
+      "agency": "PAN",
+      "parcNumber": "18590"
     },
     {
       "id": "4",
       "title": "full",
       "name": "Haulotte compact",
       "serialNumber": "POL458M2",
-      "agency": "TON"
+      "agency": "TON",
+      "parcNumber": "19689"
     }
   ],
   "comments": [
